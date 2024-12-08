@@ -1,0 +1,10 @@
+ ID:1 CoordX:2 CoordY:5 Status:Immune (>1) Infection Counter:1
+ ID:2 CoordX:0 CoordY:3 Status:Susceptible (1) Infection Counter:0
+ ID:3 CoordX:5 CoordY:0 Status:Susceptible (1) Infection Counter:0
+ ID:4 CoordX:5 CoordY:2 Status:Immune (>1) Infection Counter:1
+ ID:5 CoordX:3 CoordY:3 Status:Susceptible (1) Infection Counter:0
+ ID:6 CoordX:4 CoordY:0 Status:Susceptible (1) Infection Counter:0
+ ID:7 CoordX:1 CoordY:0 Status:Susceptible (1) Infection Counter:0
+ ID:8 CoordX:5 CoordY:3 Status:Susceptible (1) Infection Counter:0
+ ID:9 CoordX:5 CoordY:4 Status:Immune (>1) Infection Counter:0
+ ID:10 CoordX:0 CoordY:2 Status:Infected (0) Infection Counter:0

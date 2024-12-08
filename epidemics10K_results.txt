@@ -1,0 +1,3 @@
+nr simulations:5
+nr threads:2
+SERIAL:1.147912
