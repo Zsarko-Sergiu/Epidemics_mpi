@@ -1,0 +1,4 @@
+nr simulations:5
+SERIAL:0.000011
+Nr processes:1
+MPI Time:0.000022
