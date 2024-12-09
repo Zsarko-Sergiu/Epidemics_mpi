@@ -98,51 +98,51 @@
  ID:98 CoordX:3096 CoordY:7923 Status:Susceptible (1) Infection Counter:0
  ID:99 CoordX:5586 CoordY:6808 Status:Susceptible (1) Infection Counter:0
  ID:100 CoordX:7420 CoordY:4591 Status:Immune (>1) Infection Counter:1
- ID:101 CoordX:2020 CoordY:6463 Status:Immune (>1) Infection Counter:0
- ID:102 CoordX:6915 CoordY:2528 Status:Immune (>1) Infection Counter:0
+ ID:101 CoordX:2020 CoordY:6463 Status:Immune (>1) Infection Counter:1
+ ID:102 CoordX:6915 CoordY:2528 Status:Immune (>1) Infection Counter:1
  ID:103 CoordX:9895 CoordY:2949 Status:Susceptible (1) Infection Counter:0
- ID:104 CoordX:8225 CoordY:2079 Status:Immune (>1) Infection Counter:0
- ID:105 CoordX:5814 CoordY:0 Status:Immune (>1) Infection Counter:0
- ID:106 CoordX:4496 CoordY:9742 Status:Immune (>1) Infection Counter:0
+ ID:104 CoordX:8225 CoordY:2079 Status:Immune (>1) Infection Counter:1
+ ID:105 CoordX:5814 CoordY:0 Status:Immune (>1) Infection Counter:1
+ ID:106 CoordX:4496 CoordY:9742 Status:Immune (>1) Infection Counter:1
  ID:107 CoordX:6264 CoordY:645 Status:Susceptible (1) Infection Counter:0
- ID:108 CoordX:6550 CoordY:0 Status:Immune (>1) Infection Counter:0
- ID:109 CoordX:718 CoordY:7368 Status:Immune (>1) Infection Counter:0
- ID:110 CoordX:1527 CoordY:8717 Status:Immune (>1) Infection Counter:0
+ ID:108 CoordX:6550 CoordY:0 Status:Immune (>1) Infection Counter:1
+ ID:109 CoordX:718 CoordY:7368 Status:Immune (>1) Infection Counter:1
+ ID:110 CoordX:1527 CoordY:8717 Status:Immune (>1) Infection Counter:1
  ID:111 CoordX:9999 CoordY:5435 Status:Susceptible (1) Infection Counter:0
- ID:112 CoordX:6135 CoordY:2670 Status:Immune (>1) Infection Counter:0
+ ID:112 CoordX:6135 CoordY:2670 Status:Immune (>1) Infection Counter:1
  ID:113 CoordX:1079 CoordY:0 Status:Susceptible (1) Infection Counter:0
- ID:114 CoordX:6488 CoordY:8552 Status:Immune (>1) Infection Counter:0
- ID:115 CoordX:8524 CoordY:2811 Status:Immune (>1) Infection Counter:0
- ID:116 CoordX:5801 CoordY:7313 Status:Immune (>1) Infection Counter:0
+ ID:114 CoordX:6488 CoordY:8552 Status:Immune (>1) Infection Counter:1
+ ID:115 CoordX:8524 CoordY:2811 Status:Immune (>1) Infection Counter:1
+ ID:116 CoordX:5801 CoordY:7313 Status:Immune (>1) Infection Counter:1
  ID:117 CoordX:5191 CoordY:3547 Status:Susceptible (1) Infection Counter:0
- ID:118 CoordX:8465 CoordY:0 Status:Immune (>1) Infection Counter:0
- ID:119 CoordX:7116 CoordY:8378 Status:Immune (>1) Infection Counter:0
- ID:120 CoordX:7960 CoordY:1987 Status:Immune (>1) Infection Counter:0
+ ID:118 CoordX:8465 CoordY:0 Status:Immune (>1) Infection Counter:1
+ ID:119 CoordX:7116 CoordY:8378 Status:Immune (>1) Infection Counter:1
+ ID:120 CoordX:7960 CoordY:1987 Status:Immune (>1) Infection Counter:1
  ID:121 CoordX:645 CoordY:9999 Status:Susceptible (1) Infection Counter:0
- ID:122 CoordX:4384 CoordY:1167 Status:Immune (>1) Infection Counter:0
- ID:123 CoordX:3978 CoordY:0 Status:Immune (>1) Infection Counter:0
- ID:124 CoordX:6913 CoordY:4865 Status:Immune (>1) Infection Counter:0
+ ID:122 CoordX:4384 CoordY:1167 Status:Immune (>1) Infection Counter:1
+ ID:123 CoordX:3978 CoordY:0 Status:Immune (>1) Infection Counter:1
+ ID:124 CoordX:6913 CoordY:4865 Status:Immune (>1) Infection Counter:1
  ID:125 CoordX:7506 CoordY:2037 Status:Susceptible (1) Infection Counter:0
- ID:126 CoordX:4065 CoordY:3949 Status:Immune (>1) Infection Counter:0
+ ID:126 CoordX:4065 CoordY:3949 Status:Immune (>1) Infection Counter:1
  ID:127 CoordX:0 CoordY:7634 Status:Susceptible (1) Infection Counter:0
  ID:128 CoordX:6157 CoordY:9999 Status:Susceptible (1) Infection Counter:0
  ID:129 CoordX:3339 CoordY:7560 Status:Susceptible (1) Infection Counter:0
- ID:130 CoordX:3758 CoordY:2721 Status:Immune (>1) Infection Counter:0
+ ID:130 CoordX:3758 CoordY:2721 Status:Immune (>1) Infection Counter:1
  ID:131 CoordX:4682 CoordY:2568 Status:Susceptible (1) Infection Counter:0
- ID:132 CoordX:6527 CoordY:9999 Status:Immune (>1) Infection Counter:0
+ ID:132 CoordX:6527 CoordY:9999 Status:Immune (>1) Infection Counter:1
  ID:133 CoordX:139 CoordY:4116 Status:Susceptible (1) Infection Counter:0
  ID:134 CoordX:4719 CoordY:5389 Status:Susceptible (1) Infection Counter:0
- ID:135 CoordX:5756 CoordY:180 Status:Immune (>1) Infection Counter:0
- ID:136 CoordX:6876 CoordY:3389 Status:Immune (>1) Infection Counter:0
- ID:137 CoordX:0 CoordY:4794 Status:Immune (>1) Infection Counter:0
- ID:138 CoordX:4740 CoordY:8010 Status:Immune (>1) Infection Counter:0
+ ID:135 CoordX:5756 CoordY:180 Status:Immune (>1) Infection Counter:1
+ ID:136 CoordX:6876 CoordY:3389 Status:Immune (>1) Infection Counter:1
+ ID:137 CoordX:0 CoordY:4794 Status:Immune (>1) Infection Counter:1
+ ID:138 CoordX:4740 CoordY:8010 Status:Immune (>1) Infection Counter:1
  ID:139 CoordX:5321 CoordY:7707 Status:Susceptible (1) Infection Counter:0
- ID:140 CoordX:6272 CoordY:8550 Status:Immune (>1) Infection Counter:0
+ ID:140 CoordX:6272 CoordY:8550 Status:Immune (>1) Infection Counter:1
  ID:141 CoordX:2814 CoordY:8676 Status:Susceptible (1) Infection Counter:0
- ID:142 CoordX:2866 CoordY:3785 Status:Immune (>1) Infection Counter:0
- ID:143 CoordX:7035 CoordY:9999 Status:Immune (>1) Infection Counter:0
+ ID:142 CoordX:2866 CoordY:3785 Status:Immune (>1) Infection Counter:1
+ ID:143 CoordX:7035 CoordY:9999 Status:Immune (>1) Infection Counter:1
  ID:144 CoordX:3377 CoordY:3450 Status:Susceptible (1) Infection Counter:0
- ID:145 CoordX:5236 CoordY:7627 Status:Immune (>1) Infection Counter:0
+ ID:145 CoordX:5236 CoordY:7627 Status:Immune (>1) Infection Counter:1
  ID:146 CoordX:7220 CoordY:2997 Status:Susceptible (1) Infection Counter:0
  ID:147 CoordX:6090 CoordY:2760 Status:Susceptible (1) Infection Counter:0
  ID:148 CoordX:9632 CoordY:6249 Status:Susceptible (1) Infection Counter:0
@@ -154,248 +154,248 @@
  ID:154 CoordX:6883 CoordY:7518 Status:Susceptible (1) Infection Counter:0
  ID:155 CoordX:5564 CoordY:2387 Status:Susceptible (1) Infection Counter:0
  ID:156 CoordX:9999 CoordY:4207 Status:Susceptible (1) Infection Counter:0
- ID:157 CoordX:9840 CoordY:5344 Status:Immune (>1) Infection Counter:0
- ID:158 CoordX:4999 CoordY:1202 Status:Immune (>1) Infection Counter:0
+ ID:157 CoordX:9840 CoordY:5344 Status:Immune (>1) Infection Counter:1
+ ID:158 CoordX:4999 CoordY:1202 Status:Immune (>1) Infection Counter:1
  ID:159 CoordX:9999 CoordY:1638 Status:Susceptible (1) Infection Counter:0
  ID:160 CoordX:8252 CoordY:3469 Status:Susceptible (1) Infection Counter:0
  ID:161 CoordX:9999 CoordY:9265 Status:Susceptible (1) Infection Counter:0
- ID:162 CoordX:6785 CoordY:5180 Status:Immune (>1) Infection Counter:0
- ID:163 CoordX:4242 CoordY:0 Status:Immune (>1) Infection Counter:0
+ ID:162 CoordX:6785 CoordY:5180 Status:Immune (>1) Infection Counter:1
+ ID:163 CoordX:4242 CoordY:0 Status:Immune (>1) Infection Counter:1
  ID:164 CoordX:1673 CoordY:9999 Status:Susceptible (1) Infection Counter:0
- ID:165 CoordX:5487 CoordY:6213 Status:Immune (>1) Infection Counter:0
- ID:166 CoordX:735 CoordY:1262 Status:Immune (>1) Infection Counter:0
+ ID:165 CoordX:5487 CoordY:6213 Status:Immune (>1) Infection Counter:1
+ ID:166 CoordX:735 CoordY:1262 Status:Immune (>1) Infection Counter:1
  ID:167 CoordX:6141 CoordY:1149 Status:Susceptible (1) Infection Counter:0
- ID:168 CoordX:4618 CoordY:2275 Status:Immune (>1) Infection Counter:0
+ ID:168 CoordX:4618 CoordY:2275 Status:Immune (>1) Infection Counter:1
  ID:169 CoordX:1571 CoordY:0 Status:Susceptible (1) Infection Counter:0
- ID:170 CoordX:5906 CoordY:9302 Status:Immune (>1) Infection Counter:0
+ ID:170 CoordX:5906 CoordY:9302 Status:Immune (>1) Infection Counter:1
  ID:171 CoordX:6768 CoordY:4017 Status:Susceptible (1) Infection Counter:0
  ID:172 CoordX:4523 CoordY:6058 Status:Susceptible (1) Infection Counter:0
  ID:173 CoordX:1292 CoordY:9999 Status:Susceptible (1) Infection Counter:0
  ID:174 CoordX:0 CoordY:4576 Status:Susceptible (1) Infection Counter:0
  ID:175 CoordX:7308 CoordY:0 Status:Susceptible (1) Infection Counter:0
- ID:176 CoordX:5321 CoordY:5235 Status:Immune (>1) Infection Counter:0
- ID:177 CoordX:0 CoordY:7423 Status:Immune (>1) Infection Counter:0
- ID:178 CoordX:8309 CoordY:0 Status:Immune (>1) Infection Counter:0
+ ID:176 CoordX:5321 CoordY:5235 Status:Immune (>1) Infection Counter:1
+ ID:177 CoordX:0 CoordY:7423 Status:Immune (>1) Infection Counter:1
+ ID:178 CoordX:8309 CoordY:0 Status:Immune (>1) Infection Counter:1
  ID:179 CoordX:4758 CoordY:7185 Status:Susceptible (1) Infection Counter:0
- ID:180 CoordX:0 CoordY:5997 Status:Immune (>1) Infection Counter:0
- ID:181 CoordX:7726 CoordY:9999 Status:Immune (>1) Infection Counter:0
- ID:182 CoordX:9999 CoordY:8114 Status:Immune (>1) Infection Counter:0
+ ID:180 CoordX:0 CoordY:5997 Status:Immune (>1) Infection Counter:1
+ ID:181 CoordX:7726 CoordY:9999 Status:Immune (>1) Infection Counter:1
+ ID:182 CoordX:9999 CoordY:8114 Status:Immune (>1) Infection Counter:1
  ID:183 CoordX:904 CoordY:5039 Status:Susceptible (1) Infection Counter:0
  ID:184 CoordX:4044 CoordY:4084 Status:Susceptible (1) Infection Counter:0
- ID:185 CoordX:4234 CoordY:4924 Status:Immune (>1) Infection Counter:0
+ ID:185 CoordX:4234 CoordY:4924 Status:Immune (>1) Infection Counter:1
  ID:186 CoordX:5353 CoordY:2916 Status:Susceptible (1) Infection Counter:0
- ID:187 CoordX:1007 CoordY:6329 Status:Immune (>1) Infection Counter:0
+ ID:187 CoordX:1007 CoordY:6329 Status:Immune (>1) Infection Counter:1
  ID:188 CoordX:3909 CoordY:5979 Status:Susceptible (1) Infection Counter:0
- ID:189 CoordX:4311 CoordY:4817 Status:Immune (>1) Infection Counter:0
+ ID:189 CoordX:4311 CoordY:4817 Status:Immune (>1) Infection Counter:1
  ID:190 CoordX:2932 CoordY:1187 Status:Susceptible (1) Infection Counter:0
- ID:191 CoordX:335 CoordY:1557 Status:Immune (>1) Infection Counter:0
- ID:192 CoordX:6146 CoordY:9999 Status:Immune (>1) Infection Counter:0
- ID:193 CoordX:1446 CoordY:125 Status:Immune (>1) Infection Counter:0
- ID:194 CoordX:3746 CoordY:0 Status:Immune (>1) Infection Counter:0
- ID:195 CoordX:3602 CoordY:3204 Status:Immune (>1) Infection Counter:0
- ID:196 CoordX:4333 CoordY:4710 Status:Immune (>1) Infection Counter:0
+ ID:191 CoordX:335 CoordY:1557 Status:Immune (>1) Infection Counter:1
+ ID:192 CoordX:6146 CoordY:9999 Status:Immune (>1) Infection Counter:1
+ ID:193 CoordX:1446 CoordY:125 Status:Immune (>1) Infection Counter:1
+ ID:194 CoordX:3746 CoordY:0 Status:Immune (>1) Infection Counter:1
+ ID:195 CoordX:3602 CoordY:3204 Status:Immune (>1) Infection Counter:1
+ ID:196 CoordX:4333 CoordY:4710 Status:Immune (>1) Infection Counter:1
  ID:197 CoordX:3483 CoordY:7679 Status:Susceptible (1) Infection Counter:0
- ID:198 CoordX:2975 CoordY:9999 Status:Immune (>1) Infection Counter:0
+ ID:198 CoordX:2975 CoordY:9999 Status:Immune (>1) Infection Counter:1
  ID:199 CoordX:6714 CoordY:4183 Status:Susceptible (1) Infection Counter:0
  ID:200 CoordX:3988 CoordY:169 Status:Susceptible (1) Infection Counter:0
  ID:201 CoordX:2581 CoordY:5712 Status:Susceptible (1) Infection Counter:0
  ID:202 CoordX:3024 CoordY:6479 Status:Susceptible (1) Infection Counter:0
- ID:203 CoordX:3066 CoordY:984 Status:Immune (>1) Infection Counter:0
- ID:204 CoordX:9315 CoordY:1313 Status:Immune (>1) Infection Counter:0
- ID:205 CoordX:3 CoordY:1473 Status:Immune (>1) Infection Counter:0
- ID:206 CoordX:4800 CoordY:5741 Status:Immune (>1) Infection Counter:0
- ID:207 CoordX:3192 CoordY:632 Status:Immune (>1) Infection Counter:0
- ID:208 CoordX:801 CoordY:9999 Status:Immune (>1) Infection Counter:0
+ ID:203 CoordX:3066 CoordY:984 Status:Immune (>1) Infection Counter:1
+ ID:204 CoordX:9315 CoordY:1313 Status:Immune (>1) Infection Counter:1
+ ID:205 CoordX:3 CoordY:1473 Status:Immune (>1) Infection Counter:1
+ ID:206 CoordX:4800 CoordY:5741 Status:Immune (>1) Infection Counter:1
+ ID:207 CoordX:3192 CoordY:632 Status:Immune (>1) Infection Counter:1
+ ID:208 CoordX:801 CoordY:9999 Status:Immune (>1) Infection Counter:1
  ID:209 CoordX:6230 CoordY:2502 Status:Susceptible (1) Infection Counter:0
  ID:210 CoordX:7220 CoordY:8397 Status:Susceptible (1) Infection Counter:0
  ID:211 CoordX:3003 CoordY:6162 Status:Susceptible (1) Infection Counter:0
- ID:212 CoordX:5653 CoordY:6925 Status:Immune (>1) Infection Counter:0
+ ID:212 CoordX:5653 CoordY:6925 Status:Immune (>1) Infection Counter:1
  ID:213 CoordX:3506 CoordY:5633 Status:Susceptible (1) Infection Counter:0
  ID:214 CoordX:4000 CoordY:6978 Status:Susceptible (1) Infection Counter:0
  ID:215 CoordX:6422 CoordY:6828 Status:Susceptible (1) Infection Counter:0
- ID:216 CoordX:4126 CoordY:9403 Status:Immune (>1) Infection Counter:0
- ID:217 CoordX:2704 CoordY:1121 Status:Immune (>1) Infection Counter:0
+ ID:216 CoordX:4126 CoordY:9403 Status:Immune (>1) Infection Counter:1
+ ID:217 CoordX:2704 CoordY:1121 Status:Immune (>1) Infection Counter:1
  ID:218 CoordX:9396 CoordY:9819 Status:Susceptible (1) Infection Counter:0
- ID:219 CoordX:6917 CoordY:8385 Status:Immune (>1) Infection Counter:0
- ID:220 CoordX:0 CoordY:9049 Status:Immune (>1) Infection Counter:0
+ ID:219 CoordX:6917 CoordY:8385 Status:Immune (>1) Infection Counter:1
+ ID:220 CoordX:0 CoordY:9049 Status:Immune (>1) Infection Counter:1
  ID:221 CoordX:6266 CoordY:0 Status:Susceptible (1) Infection Counter:0
  ID:222 CoordX:1884 CoordY:5174 Status:Susceptible (1) Infection Counter:0
- ID:223 CoordX:3585 CoordY:3991 Status:Immune (>1) Infection Counter:0
+ ID:223 CoordX:3585 CoordY:3991 Status:Immune (>1) Infection Counter:1
  ID:224 CoordX:7096 CoordY:3528 Status:Susceptible (1) Infection Counter:0
  ID:225 CoordX:5153 CoordY:4203 Status:Susceptible (1) Infection Counter:0
  ID:226 CoordX:4121 CoordY:8256 Status:Susceptible (1) Infection Counter:0
- ID:227 CoordX:4830 CoordY:9999 Status:Immune (>1) Infection Counter:0
- ID:228 CoordX:9787 CoordY:92 Status:Immune (>1) Infection Counter:0
+ ID:227 CoordX:4830 CoordY:9999 Status:Immune (>1) Infection Counter:1
+ ID:228 CoordX:9787 CoordY:92 Status:Immune (>1) Infection Counter:1
  ID:229 CoordX:8372 CoordY:3684 Status:Susceptible (1) Infection Counter:0
  ID:230 CoordX:3901 CoordY:3333 Status:Susceptible (1) Infection Counter:0
- ID:231 CoordX:2608 CoordY:2548 Status:Immune (>1) Infection Counter:0
- ID:232 CoordX:4598 CoordY:5432 Status:Immune (>1) Infection Counter:0
- ID:233 CoordX:8105 CoordY:7147 Status:Immune (>1) Infection Counter:0
- ID:234 CoordX:2102 CoordY:6001 Status:Immune (>1) Infection Counter:0
+ ID:231 CoordX:2608 CoordY:2548 Status:Immune (>1) Infection Counter:1
+ ID:232 CoordX:4598 CoordY:5432 Status:Immune (>1) Infection Counter:1
+ ID:233 CoordX:8105 CoordY:7147 Status:Immune (>1) Infection Counter:1
+ ID:234 CoordX:2102 CoordY:6001 Status:Immune (>1) Infection Counter:1
  ID:235 CoordX:9999 CoordY:8931 Status:Susceptible (1) Infection Counter:0
  ID:236 CoordX:606 CoordY:9089 Status:Susceptible (1) Infection Counter:0
  ID:237 CoordX:3805 CoordY:8046 Status:Susceptible (1) Infection Counter:0
- ID:238 CoordX:6581 CoordY:9999 Status:Immune (>1) Infection Counter:0
- ID:239 CoordX:4361 CoordY:8167 Status:Immune (>1) Infection Counter:0
+ ID:238 CoordX:6581 CoordY:9999 Status:Immune (>1) Infection Counter:1
+ ID:239 CoordX:4361 CoordY:8167 Status:Immune (>1) Infection Counter:1
  ID:240 CoordX:15 CoordY:8608 Status:Susceptible (1) Infection Counter:0
  ID:241 CoordX:7818 CoordY:0 Status:Susceptible (1) Infection Counter:0
- ID:242 CoordX:5293 CoordY:0 Status:Immune (>1) Infection Counter:0
- ID:243 CoordX:8875 CoordY:5518 Status:Immune (>1) Infection Counter:0
+ ID:242 CoordX:5293 CoordY:0 Status:Immune (>1) Infection Counter:1
+ ID:243 CoordX:8875 CoordY:5518 Status:Immune (>1) Infection Counter:1
  ID:244 CoordX:268 CoordY:6354 Status:Susceptible (1) Infection Counter:0
  ID:245 CoordX:9999 CoordY:4238 Status:Susceptible (1) Infection Counter:0
  ID:246 CoordX:6170 CoordY:1721 Status:Susceptible (1) Infection Counter:0
- ID:247 CoordX:0 CoordY:3723 Status:Immune (>1) Infection Counter:0
- ID:248 CoordX:38 CoordY:7144 Status:Immune (>1) Infection Counter:0
- ID:249 CoordX:342 CoordY:6650 Status:Immune (>1) Infection Counter:0
- ID:250 CoordX:7809 CoordY:6138 Status:Immune (>1) Infection Counter:0
+ ID:247 CoordX:0 CoordY:3723 Status:Immune (>1) Infection Counter:1
+ ID:248 CoordX:38 CoordY:7144 Status:Immune (>1) Infection Counter:1
+ ID:249 CoordX:342 CoordY:6650 Status:Immune (>1) Infection Counter:1
+ ID:250 CoordX:7809 CoordY:6138 Status:Immune (>1) Infection Counter:1
  ID:251 CoordX:7104 CoordY:35 Status:Susceptible (1) Infection Counter:0
  ID:252 CoordX:2155 CoordY:9375 Status:Susceptible (1) Infection Counter:0
- ID:253 CoordX:5340 CoordY:1688 Status:Immune (>1) Infection Counter:0
- ID:254 CoordX:3409 CoordY:0 Status:Immune (>1) Infection Counter:0
- ID:255 CoordX:6935 CoordY:609 Status:Immune (>1) Infection Counter:0
+ ID:253 CoordX:5340 CoordY:1688 Status:Immune (>1) Infection Counter:1
+ ID:254 CoordX:3409 CoordY:0 Status:Immune (>1) Infection Counter:1
+ ID:255 CoordX:6935 CoordY:609 Status:Immune (>1) Infection Counter:1
  ID:256 CoordX:4848 CoordY:2304 Status:Susceptible (1) Infection Counter:0
- ID:257 CoordX:170 CoordY:1773 Status:Immune (>1) Infection Counter:0
- ID:258 CoordX:5647 CoordY:4299 Status:Immune (>1) Infection Counter:0
+ ID:257 CoordX:170 CoordY:1773 Status:Immune (>1) Infection Counter:1
+ ID:258 CoordX:5647 CoordY:4299 Status:Immune (>1) Infection Counter:1
  ID:259 CoordX:0 CoordY:7162 Status:Susceptible (1) Infection Counter:0
  ID:260 CoordX:1827 CoordY:5639 Status:Susceptible (1) Infection Counter:0
  ID:261 CoordX:7917 CoordY:9217 Status:Susceptible (1) Infection Counter:0
  ID:262 CoordX:2430 CoordY:6271 Status:Susceptible (1) Infection Counter:0
- ID:263 CoordX:9408 CoordY:7069 Status:Immune (>1) Infection Counter:0
- ID:264 CoordX:9999 CoordY:7500 Status:Immune (>1) Infection Counter:0
- ID:265 CoordX:4817 CoordY:73 Status:Immune (>1) Infection Counter:0
+ ID:263 CoordX:9408 CoordY:7069 Status:Immune (>1) Infection Counter:1
+ ID:264 CoordX:9999 CoordY:7500 Status:Immune (>1) Infection Counter:1
+ ID:265 CoordX:4817 CoordY:73 Status:Immune (>1) Infection Counter:1
  ID:266 CoordX:702 CoordY:1348 Status:Susceptible (1) Infection Counter:0
- ID:267 CoordX:93 CoordY:4892 Status:Immune (>1) Infection Counter:0
- ID:268 CoordX:9999 CoordY:8136 Status:Immune (>1) Infection Counter:0
+ ID:267 CoordX:93 CoordY:4892 Status:Immune (>1) Infection Counter:1
+ ID:268 CoordX:9999 CoordY:8136 Status:Immune (>1) Infection Counter:1
  ID:269 CoordX:0 CoordY:1314 Status:Susceptible (1) Infection Counter:0
- ID:270 CoordX:5696 CoordY:2451 Status:Immune (>1) Infection Counter:0
+ ID:270 CoordX:5696 CoordY:2451 Status:Immune (>1) Infection Counter:1
  ID:271 CoordX:9185 CoordY:9450 Status:Susceptible (1) Infection Counter:0
  ID:272 CoordX:5059 CoordY:7626 Status:Susceptible (1) Infection Counter:0
- ID:273 CoordX:7316 CoordY:7281 Status:Immune (>1) Infection Counter:0
- ID:274 CoordX:8629 CoordY:7000 Status:Immune (>1) Infection Counter:0
+ ID:273 CoordX:7316 CoordY:7281 Status:Immune (>1) Infection Counter:1
+ ID:274 CoordX:8629 CoordY:7000 Status:Immune (>1) Infection Counter:1
  ID:275 CoordX:4552 CoordY:3741 Status:Susceptible (1) Infection Counter:0
- ID:276 CoordX:8878 CoordY:5719 Status:Immune (>1) Infection Counter:0
+ ID:276 CoordX:8878 CoordY:5719 Status:Immune (>1) Infection Counter:1
  ID:277 CoordX:4532 CoordY:7944 Status:Susceptible (1) Infection Counter:0
- ID:278 CoordX:6036 CoordY:0 Status:Immune (>1) Infection Counter:0
- ID:279 CoordX:8070 CoordY:0 Status:Immune (>1) Infection Counter:0
+ ID:278 CoordX:6036 CoordY:0 Status:Immune (>1) Infection Counter:1
+ ID:279 CoordX:8070 CoordY:0 Status:Immune (>1) Infection Counter:1
  ID:280 CoordX:9999 CoordY:3540 Status:Susceptible (1) Infection Counter:0
  ID:281 CoordX:6832 CoordY:9677 Status:Susceptible (1) Infection Counter:0
  ID:282 CoordX:9016 CoordY:0 Status:Susceptible (1) Infection Counter:0
- ID:283 CoordX:6112 CoordY:3963 Status:Immune (>1) Infection Counter:0
+ ID:283 CoordX:6112 CoordY:3963 Status:Immune (>1) Infection Counter:1
  ID:284 CoordX:1755 CoordY:3640 Status:Susceptible (1) Infection Counter:0
- ID:285 CoordX:8807 CoordY:4971 Status:Immune (>1) Infection Counter:0
- ID:286 CoordX:7203 CoordY:7629 Status:Immune (>1) Infection Counter:0
+ ID:285 CoordX:8807 CoordY:4971 Status:Immune (>1) Infection Counter:1
+ ID:286 CoordX:7203 CoordY:7629 Status:Immune (>1) Infection Counter:1
  ID:287 CoordX:7187 CoordY:3008 Status:Susceptible (1) Infection Counter:0
- ID:288 CoordX:6548 CoordY:0 Status:Immune (>1) Infection Counter:0
+ ID:288 CoordX:6548 CoordY:0 Status:Immune (>1) Infection Counter:1
  ID:289 CoordX:3900 CoordY:8695 Status:Susceptible (1) Infection Counter:0
  ID:290 CoordX:5808 CoordY:1328 Status:Susceptible (1) Infection Counter:0
  ID:291 CoordX:5001 CoordY:9010 Status:Susceptible (1) Infection Counter:0
  ID:292 CoordX:2651 CoordY:6757 Status:Susceptible (1) Infection Counter:0
- ID:293 CoordX:0 CoordY:890 Status:Immune (>1) Infection Counter:0
- ID:294 CoordX:8520 CoordY:4735 Status:Immune (>1) Infection Counter:0
+ ID:293 CoordX:0 CoordY:890 Status:Immune (>1) Infection Counter:1
+ ID:294 CoordX:8520 CoordY:4735 Status:Immune (>1) Infection Counter:1
  ID:295 CoordX:5708 CoordY:3403 Status:Susceptible (1) Infection Counter:0
  ID:296 CoordX:7291 CoordY:9607 Status:Susceptible (1) Infection Counter:0
- ID:297 CoordX:9885 CoordY:429 Status:Immune (>1) Infection Counter:0
- ID:298 CoordX:0 CoordY:4696 Status:Immune (>1) Infection Counter:0
- ID:299 CoordX:0 CoordY:7211 Status:Immune (>1) Infection Counter:0
+ ID:297 CoordX:9885 CoordY:429 Status:Immune (>1) Infection Counter:1
+ ID:298 CoordX:0 CoordY:4696 Status:Immune (>1) Infection Counter:1
+ ID:299 CoordX:0 CoordY:7211 Status:Immune (>1) Infection Counter:1
  ID:300 CoordX:9999 CoordY:5184 Status:Susceptible (1) Infection Counter:0
  ID:301 CoordX:4577 CoordY:451 Status:Susceptible (1) Infection Counter:0
- ID:302 CoordX:4733 CoordY:7928 Status:Immune (>1) Infection Counter:0
+ ID:302 CoordX:4733 CoordY:7928 Status:Immune (>1) Infection Counter:1
  ID:303 CoordX:9492 CoordY:1638 Status:Susceptible (1) Infection Counter:0
- ID:304 CoordX:6143 CoordY:3912 Status:Immune (>1) Infection Counter:0
+ ID:304 CoordX:6143 CoordY:3912 Status:Immune (>1) Infection Counter:1
  ID:305 CoordX:0 CoordY:1079 Status:Susceptible (1) Infection Counter:0
  ID:306 CoordX:9999 CoordY:2022 Status:Susceptible (1) Infection Counter:0
  ID:307 CoordX:816 CoordY:9999 Status:Susceptible (1) Infection Counter:0
  ID:308 CoordX:2536 CoordY:1571 Status:Susceptible (1) Infection Counter:0
- ID:309 CoordX:2023 CoordY:5844 Status:Immune (>1) Infection Counter:0
- ID:310 CoordX:9031 CoordY:8428 Status:Immune (>1) Infection Counter:0
+ ID:309 CoordX:2023 CoordY:5844 Status:Immune (>1) Infection Counter:1
+ ID:310 CoordX:9031 CoordY:8428 Status:Immune (>1) Infection Counter:1
  ID:311 CoordX:5494 CoordY:4340 Status:Susceptible (1) Infection Counter:0
- ID:312 CoordX:7616 CoordY:1009 Status:Immune (>1) Infection Counter:0
- ID:313 CoordX:2370 CoordY:5559 Status:Immune (>1) Infection Counter:0
- ID:314 CoordX:9164 CoordY:6504 Status:Immune (>1) Infection Counter:0
+ ID:312 CoordX:7616 CoordY:1009 Status:Immune (>1) Infection Counter:1
+ ID:313 CoordX:2370 CoordY:5559 Status:Immune (>1) Infection Counter:1
+ ID:314 CoordX:9164 CoordY:6504 Status:Immune (>1) Infection Counter:1
  ID:315 CoordX:8977 CoordY:0 Status:Susceptible (1) Infection Counter:0
- ID:316 CoordX:4253 CoordY:0 Status:Immune (>1) Infection Counter:0
+ ID:316 CoordX:4253 CoordY:0 Status:Immune (>1) Infection Counter:1
  ID:317 CoordX:7715 CoordY:8109 Status:Susceptible (1) Infection Counter:0
  ID:318 CoordX:3211 CoordY:3807 Status:Susceptible (1) Infection Counter:0
- ID:319 CoordX:1211 CoordY:9999 Status:Immune (>1) Infection Counter:0
+ ID:319 CoordX:1211 CoordY:9999 Status:Immune (>1) Infection Counter:1
  ID:320 CoordX:7804 CoordY:4340 Status:Susceptible (1) Infection Counter:0
  ID:321 CoordX:1483 CoordY:0 Status:Susceptible (1) Infection Counter:0
  ID:322 CoordX:7554 CoordY:2785 Status:Susceptible (1) Infection Counter:0
  ID:323 CoordX:4590 CoordY:9038 Status:Susceptible (1) Infection Counter:0
  ID:324 CoordX:8973 CoordY:7509 Status:Susceptible (1) Infection Counter:0
- ID:325 CoordX:2531 CoordY:6066 Status:Immune (>1) Infection Counter:0
- ID:326 CoordX:3800 CoordY:8892 Status:Immune (>1) Infection Counter:0
- ID:327 CoordX:8251 CoordY:5288 Status:Immune (>1) Infection Counter:0
+ ID:325 CoordX:2531 CoordY:6066 Status:Immune (>1) Infection Counter:1
+ ID:326 CoordX:3800 CoordY:8892 Status:Immune (>1) Infection Counter:1
+ ID:327 CoordX:8251 CoordY:5288 Status:Immune (>1) Infection Counter:1
  ID:328 CoordX:4323 CoordY:9208 Status:Susceptible (1) Infection Counter:0
  ID:329 CoordX:0 CoordY:2476 Status:Susceptible (1) Infection Counter:0
- ID:330 CoordX:5118 CoordY:2202 Status:Immune (>1) Infection Counter:0
- ID:331 CoordX:9999 CoordY:4550 Status:Immune (>1) Infection Counter:0
- ID:332 CoordX:3643 CoordY:9999 Status:Immune (>1) Infection Counter:0
- ID:333 CoordX:5338 CoordY:6328 Status:Immune (>1) Infection Counter:0
- ID:334 CoordX:524 CoordY:7072 Status:Immune (>1) Infection Counter:0
+ ID:330 CoordX:5118 CoordY:2202 Status:Immune (>1) Infection Counter:1
+ ID:331 CoordX:9999 CoordY:4550 Status:Immune (>1) Infection Counter:1
+ ID:332 CoordX:3643 CoordY:9999 Status:Immune (>1) Infection Counter:1
+ ID:333 CoordX:5338 CoordY:6328 Status:Immune (>1) Infection Counter:1
+ ID:334 CoordX:524 CoordY:7072 Status:Immune (>1) Infection Counter:1
  ID:335 CoordX:7542 CoordY:4916 Status:Susceptible (1) Infection Counter:0
  ID:336 CoordX:8826 CoordY:4805 Status:Susceptible (1) Infection Counter:0
  ID:337 CoordX:3779 CoordY:3193 Status:Susceptible (1) Infection Counter:0
- ID:338 CoordX:5395 CoordY:0 Status:Immune (>1) Infection Counter:0
+ ID:338 CoordX:5395 CoordY:0 Status:Immune (>1) Infection Counter:1
  ID:339 CoordX:5064 CoordY:9928 Status:Susceptible (1) Infection Counter:0
- ID:340 CoordX:899 CoordY:1014 Status:Immune (>1) Infection Counter:0
+ ID:340 CoordX:899 CoordY:1014 Status:Immune (>1) Infection Counter:1
  ID:341 CoordX:5568 CoordY:0 Status:Susceptible (1) Infection Counter:0
  ID:342 CoordX:3305 CoordY:6601 Status:Susceptible (1) Infection Counter:0
  ID:343 CoordX:7261 CoordY:7105 Status:Susceptible (1) Infection Counter:0
  ID:344 CoordX:4983 CoordY:3461 Status:Susceptible (1) Infection Counter:0
- ID:345 CoordX:5888 CoordY:8301 Status:Immune (>1) Infection Counter:0
- ID:346 CoordX:9286 CoordY:1615 Status:Immune (>1) Infection Counter:0
- ID:347 CoordX:6624 CoordY:4085 Status:Immune (>1) Infection Counter:0
- ID:348 CoordX:6095 CoordY:338 Status:Immune (>1) Infection Counter:0
- ID:349 CoordX:6416 CoordY:9999 Status:Immune (>1) Infection Counter:0
- ID:350 CoordX:7800 CoordY:0 Status:Immune (>1) Infection Counter:0
- ID:351 CoordX:1061 CoordY:1122 Status:Immune (>1) Infection Counter:0
- ID:352 CoordX:7543 CoordY:7752 Status:Immune (>1) Infection Counter:0
- ID:353 CoordX:2676 CoordY:6774 Status:Immune (>1) Infection Counter:0
- ID:354 CoordX:9473 CoordY:0 Status:Immune (>1) Infection Counter:0
+ ID:345 CoordX:5888 CoordY:8301 Status:Immune (>1) Infection Counter:1
+ ID:346 CoordX:9286 CoordY:1615 Status:Immune (>1) Infection Counter:1
+ ID:347 CoordX:6624 CoordY:4085 Status:Immune (>1) Infection Counter:1
+ ID:348 CoordX:6095 CoordY:338 Status:Immune (>1) Infection Counter:1
+ ID:349 CoordX:6416 CoordY:9999 Status:Immune (>1) Infection Counter:1
+ ID:350 CoordX:7800 CoordY:0 Status:Immune (>1) Infection Counter:1
+ ID:351 CoordX:1061 CoordY:1122 Status:Immune (>1) Infection Counter:1
+ ID:352 CoordX:7543 CoordY:7752 Status:Immune (>1) Infection Counter:1
+ ID:353 CoordX:2676 CoordY:6774 Status:Immune (>1) Infection Counter:1
+ ID:354 CoordX:9473 CoordY:0 Status:Immune (>1) Infection Counter:1
  ID:355 CoordX:9999 CoordY:5704 Status:Susceptible (1) Infection Counter:0
  ID:356 CoordX:9999 CoordY:5101 Status:Susceptible (1) Infection Counter:0
- ID:357 CoordX:0 CoordY:5666 Status:Immune (>1) Infection Counter:0
+ ID:357 CoordX:0 CoordY:5666 Status:Immune (>1) Infection Counter:1
  ID:358 CoordX:4916 CoordY:701 Status:Susceptible (1) Infection Counter:0
  ID:359 CoordX:5114 CoordY:4618 Status:Susceptible (1) Infection Counter:0
- ID:360 CoordX:8521 CoordY:2199 Status:Immune (>1) Infection Counter:0
- ID:361 CoordX:8448 CoordY:5073 Status:Immune (>1) Infection Counter:0
- ID:362 CoordX:0 CoordY:7389 Status:Immune (>1) Infection Counter:0
+ ID:360 CoordX:8521 CoordY:2199 Status:Immune (>1) Infection Counter:1
+ ID:361 CoordX:8448 CoordY:5073 Status:Immune (>1) Infection Counter:1
+ ID:362 CoordX:0 CoordY:7389 Status:Immune (>1) Infection Counter:1
  ID:363 CoordX:4676 CoordY:7169 Status:Susceptible (1) Infection Counter:0
  ID:364 CoordX:3628 CoordY:2389 Status:Susceptible (1) Infection Counter:0
- ID:365 CoordX:6192 CoordY:2883 Status:Immune (>1) Infection Counter:0
+ ID:365 CoordX:6192 CoordY:2883 Status:Immune (>1) Infection Counter:1
  ID:366 CoordX:2413 CoordY:3878 Status:Susceptible (1) Infection Counter:0
  ID:367 CoordX:2180 CoordY:5086 Status:Susceptible (1) Infection Counter:0
- ID:368 CoordX:4568 CoordY:8635 Status:Immune (>1) Infection Counter:0
- ID:369 CoordX:7789 CoordY:9054 Status:Immune (>1) Infection Counter:0
- ID:370 CoordX:9845 CoordY:5788 Status:Immune (>1) Infection Counter:0
- ID:371 CoordX:6118 CoordY:5148 Status:Immune (>1) Infection Counter:0
+ ID:368 CoordX:4568 CoordY:8635 Status:Immune (>1) Infection Counter:1
+ ID:369 CoordX:7789 CoordY:9054 Status:Immune (>1) Infection Counter:1
+ ID:370 CoordX:9845 CoordY:5788 Status:Immune (>1) Infection Counter:1
+ ID:371 CoordX:6118 CoordY:5148 Status:Immune (>1) Infection Counter:1
  ID:372 CoordX:2362 CoordY:8853 Status:Susceptible (1) Infection Counter:0
- ID:373 CoordX:4857 CoordY:4796 Status:Immune (>1) Infection Counter:0
- ID:374 CoordX:5469 CoordY:4309 Status:Immune (>1) Infection Counter:0
+ ID:373 CoordX:4857 CoordY:4796 Status:Immune (>1) Infection Counter:1
+ ID:374 CoordX:5469 CoordY:4309 Status:Immune (>1) Infection Counter:1
  ID:375 CoordX:9999 CoordY:7299 Status:Susceptible (1) Infection Counter:0
  ID:376 CoordX:5936 CoordY:1999 Status:Susceptible (1) Infection Counter:0
  ID:377 CoordX:7117 CoordY:7295 Status:Susceptible (1) Infection Counter:0
  ID:378 CoordX:6194 CoordY:3144 Status:Susceptible (1) Infection Counter:0
- ID:379 CoordX:9002 CoordY:7415 Status:Immune (>1) Infection Counter:0
- ID:380 CoordX:3060 CoordY:6939 Status:Immune (>1) Infection Counter:0
- ID:381 CoordX:656 CoordY:711 Status:Immune (>1) Infection Counter:0
+ ID:379 CoordX:9002 CoordY:7415 Status:Immune (>1) Infection Counter:1
+ ID:380 CoordX:3060 CoordY:6939 Status:Immune (>1) Infection Counter:1
+ ID:381 CoordX:656 CoordY:711 Status:Immune (>1) Infection Counter:1
  ID:382 CoordX:489 CoordY:9849 Status:Susceptible (1) Infection Counter:0
- ID:383 CoordX:2000 CoordY:9266 Status:Immune (>1) Infection Counter:0
+ ID:383 CoordX:2000 CoordY:9266 Status:Immune (>1) Infection Counter:1
  ID:384 CoordX:7092 CoordY:1263 Status:Susceptible (1) Infection Counter:0
- ID:385 CoordX:5622 CoordY:1436 Status:Immune (>1) Infection Counter:0
- ID:386 CoordX:4050 CoordY:7408 Status:Immune (>1) Infection Counter:0
+ ID:385 CoordX:5622 CoordY:1436 Status:Immune (>1) Infection Counter:1
+ ID:386 CoordX:4050 CoordY:7408 Status:Immune (>1) Infection Counter:1
  ID:387 CoordX:7301 CoordY:9014 Status:Susceptible (1) Infection Counter:0
  ID:388 CoordX:9999 CoordY:5221 Status:Susceptible (1) Infection Counter:0
  ID:389 CoordX:7514 CoordY:9303 Status:Susceptible (1) Infection Counter:0
  ID:390 CoordX:5487 CoordY:2624 Status:Susceptible (1) Infection Counter:0
- ID:391 CoordX:3473 CoordY:7714 Status:Immune (>1) Infection Counter:0
+ ID:391 CoordX:3473 CoordY:7714 Status:Immune (>1) Infection Counter:1
  ID:392 CoordX:6720 CoordY:1423 Status:Susceptible (1) Infection Counter:0
  ID:393 CoordX:4441 CoordY:4956 Status:Susceptible (1) Infection Counter:0
  ID:394 CoordX:8108 CoordY:7988 Status:Susceptible (1) Infection Counter:0
- ID:395 CoordX:1251 CoordY:2788 Status:Immune (>1) Infection Counter:0
- ID:396 CoordX:9554 CoordY:3546 Status:Immune (>1) Infection Counter:0
+ ID:395 CoordX:1251 CoordY:2788 Status:Immune (>1) Infection Counter:1
+ ID:396 CoordX:9554 CoordY:3546 Status:Immune (>1) Infection Counter:1
  ID:397 CoordX:2037 CoordY:9879 Status:Susceptible (1) Infection Counter:0
- ID:398 CoordX:6169 CoordY:2922 Status:Immune (>1) Infection Counter:0
+ ID:398 CoordX:6169 CoordY:2922 Status:Immune (>1) Infection Counter:1
  ID:399 CoordX:6561 CoordY:2555 Status:Susceptible (1) Infection Counter:0
  ID:400 CoordX:5855 CoordY:7650 Status:Susceptible (1) Infection Counter:0
  ID:401 CoordX:8350 CoordY:3567 Status:Susceptible (1) Infection Counter:0
@@ -2302,7 +2302,7 @@
  ID:2302 CoordX:1037 CoordY:9999 Status:Immune (>1) Infection Counter:0
  ID:2303 CoordX:1619 CoordY:0 Status:Immune (>1) Infection Counter:0
  ID:2304 CoordX:7715 CoordY:7263 Status:Susceptible (1) Infection Counter:0
- ID:2305 CoordX:4796 CoordY:7089 Status:Susceptible (1) Infection Counter:0
+ ID:2305 CoordX:4796 CoordY:7089 Status:Immune (>1) Infection Counter:0
  ID:2306 CoordX:932 CoordY:279 Status:Immune (>1) Infection Counter:0
  ID:2307 CoordX:9890 CoordY:2138 Status:Immune (>1) Infection Counter:0
  ID:2308 CoordX:9999 CoordY:8065 Status:Immune (>1) Infection Counter:0
@@ -2759,7 +2759,7 @@
  ID:2759 CoordX:0 CoordY:9891 Status:Susceptible (1) Infection Counter:0
  ID:2760 CoordX:6900 CoordY:7773 Status:Immune (>1) Infection Counter:0
  ID:2761 CoordX:8220 CoordY:198 Status:Immune (>1) Infection Counter:0
- ID:2762 CoordX:4314 CoordY:5475 Status:Susceptible (1) Infection Counter:0
+ ID:2762 CoordX:4314 CoordY:5475 Status:Immune (>1) Infection Counter:0
  ID:2763 CoordX:0 CoordY:1716 Status:Immune (>1) Infection Counter:0
  ID:2764 CoordX:6512 CoordY:0 Status:Susceptible (1) Infection Counter:0
  ID:2765 CoordX:6263 CoordY:5213 Status:Susceptible (1) Infection Counter:0
@@ -3355,7 +3355,7 @@
  ID:3355 CoordX:4453 CoordY:6223 Status:Susceptible (1) Infection Counter:0
  ID:3356 CoordX:9985 CoordY:5485 Status:Susceptible (1) Infection Counter:0
  ID:3357 CoordX:8770 CoordY:5196 Status:Immune (>1) Infection Counter:0
- ID:3358 CoordX:4365 CoordY:5942 Status:Susceptible (1) Infection Counter:0
+ ID:3358 CoordX:4365 CoordY:5942 Status:Immune (>1) Infection Counter:0
  ID:3359 CoordX:8200 CoordY:3816 Status:Immune (>1) Infection Counter:0
  ID:3360 CoordX:6301 CoordY:9568 Status:Susceptible (1) Infection Counter:0
  ID:3361 CoordX:155 CoordY:7428 Status:Immune (>1) Infection Counter:0
@@ -8287,7 +8287,7 @@
  ID:8287 CoordX:7253 CoordY:9999 Status:Susceptible (1) Infection Counter:0
  ID:8288 CoordX:9666 CoordY:5553 Status:Immune (>1) Infection Counter:0
  ID:8289 CoordX:3202 CoordY:9031 Status:Immune (>1) Infection Counter:0
- ID:8290 CoordX:5738 CoordY:5061 Status:Susceptible (1) Infection Counter:0
+ ID:8290 CoordX:5738 CoordY:5061 Status:Immune (>1) Infection Counter:0
  ID:8291 CoordX:4859 CoordY:5844 Status:Immune (>1) Infection Counter:0
  ID:8292 CoordX:7909 CoordY:1161 Status:Immune (>1) Infection Counter:0
  ID:8293 CoordX:3751 CoordY:986 Status:Immune (>1) Infection Counter:0
