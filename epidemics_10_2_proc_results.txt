@@ -2,3 +2,5 @@ nr simulations:5
 SERIAL:0.000012
 Nr processes:2
 MPI Time:0.000040
+SPEEDUP:0.300000
+EFFICIENCY:0.150000
