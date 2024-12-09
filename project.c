@@ -447,6 +447,79 @@ void simulate_mpi(person_thread *my_thread)
     }
 }
 
+/*
+void start_mpi(int sim_time, int N) {
+    int rank, size;
+    MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+    MPI_Comm_size(MPI_COMM_WORLD, &size);
+
+    // Calculate load distribution
+    int base_people = N / size;
+    int remainder = N % size;
+    int local_count = base_people + (rank < remainder ? 1 : 0);
+    int start_index = rank * base_people + (rank < remainder ? rank : remainder);
+    int end_index = start_index + local_count;
+
+    if(rank == 0)
+        fprintf(f4, "Nr processes:%d\n", size);
+
+    int* local_infection = malloc(sizeof(int) * local_count);
+    if (!local_infection) {
+        printf("Failed mem alloc for local_infection at rank %d", rank);
+        MPI_Abort(MPI_COMM_WORLD, 1);
+    }
+
+    // Scatter using MPI_Send/Recv
+    if (rank == 0) {
+        for (int i = 0; i < size; i++) {
+            int count = base_people + (i < remainder ? 1 : 0);
+            int offset = i * base_people + (i < remainder ? i : remainder);
+            
+            if (i == 0) {
+                // Root process directly uses the global people array
+                // No need for local_people, root keeps the data in the global `people`
+            } else {
+                MPI_Send(&people[offset], count * sizeof(person), MPI_BYTE, i, 0, MPI_COMM_WORLD);
+            }
+        }
+    } else {
+        // Non-root processes receive their portion of the people array
+        MPI_Recv(&people[start_index], local_count * sizeof(person), MPI_BYTE, 0, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
+    }
+
+    // Simulate
+    person_thread thread_info;
+    thread_info.id = rank;
+    thread_info.first = start_index;
+    thread_info.last = end_index - 1;
+
+    simulate_mpi(&thread_info);
+
+    MPI_Barrier(MPI_COMM_WORLD);
+
+    // Gather results
+    if (rank == 0) {
+        for (int source_rank = 1; source_rank < size; source_rank++) {
+            int start_index = source_rank * base_people + (source_rank < remainder ? source_rank : remainder);
+            int end_index = start_index + base_people + (source_rank < remainder ? 1 : 0) - 1;
+            MPI_Recv(&people[start_index], (end_index - start_index + 1) * sizeof(person), MPI_BYTE, source_rank, 1, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
+        }
+    } else {
+        MPI_Send(&people[start_index], (end_index - start_index) * sizeof(person), MPI_BYTE, 0, 1, MPI_COMM_WORLD);
+    }
+
+    free(local_infection);
+
+    if (rank == 0) {
+        printf("Simulation completed; printing to file.\n");
+        write_vars_to_file(people, f3);
+        double efficiency = Tserial / (size * total_time);
+        double speedup = efficiency * size;
+        fprintf(f4, "SPEEDUP:%lf\nEFFICIENCY:%lf", efficiency, speedup);
+    }
+}
+*/
+
 void start_mpi(int sim_time, int N) {
     int rank,size;
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
@@ -462,13 +535,12 @@ void start_mpi(int sim_time, int N) {
     if(rank==0)
         fprintf(f4,"Nr processes:%d\n",size);
 
-    person* local_people=malloc(local_count * sizeof(person));
-    int* local_infection=malloc(sizeof(int)*local_count);
-    if (!local_people || !local_infection) 
-    {
-        printf("Failed mem alloc for local_people/local infec at rank %d",rank);
-        MPI_Abort(MPI_COMM_WORLD, 1);
-    }
+    // int* local_infection=malloc(sizeof(int)*local_count);
+    // if (!local_infection) 
+    // {
+    //     printf("Failed mem alloc for local_people/local infec at rank %d",rank);
+    //     MPI_Abort(MPI_COMM_WORLD, 1);
+    // }
 
 
     // printf("Before scatter\n");
@@ -476,24 +548,17 @@ void start_mpi(int sim_time, int N) {
     if(rank==0) 
     {
         // Root process sends the data to other processes
-        for (int i=0;i<size;i++) {
+        for (int i=1;i<size;i++) {
             int count=base_people+(i < remainder ? 1 : 0);
             int offset=i*base_people+(i < remainder ? i : remainder);
             
-            if (i==0) 
-            {
-                memcpy(local_people,&people[offset],count*sizeof(person));
-                // memcpy(local_infection, &infection_counter[offset], count * sizeof(int));
-            } else 
-            {
-                MPI_Send(&people[offset],count*sizeof(person),MPI_BYTE,i,0,MPI_COMM_WORLD);
-                // MPI_Send(&infection_counter[offset],count*sizeof(int),MPI_INT,i,0,MPI_COMM_WORLD);
-            }
+            MPI_Send(&people[offset],count*sizeof(person),MPI_BYTE,i,0,MPI_COMM_WORLD);
+            // MPI_Send(&infection_counter[offset],count*sizeof(int),MPI_INT,i,0,MPI_COMM_WORLD);
         }
     } 
     else 
     {
-        MPI_Recv(local_people,local_count*sizeof(person),MPI_BYTE,0,0,MPI_COMM_WORLD,MPI_STATUS_IGNORE);
+        MPI_Recv(&people[start_index],local_count*sizeof(person),MPI_BYTE,0,0,MPI_COMM_WORLD,MPI_STATUS_IGNORE);
         // MPI_Recv(local_infection,local_count*sizeof(int),MPI_INT,0,0,MPI_COMM_WORLD,MPI_STATUS_IGNORE);
     }
 
@@ -544,14 +609,17 @@ void start_mpi(int sim_time, int N) {
     fflush(stdout);
     MPI_Barrier(MPI_COMM_WORLD);
 
-    free(local_infection);
-    free(local_people);
+    // free(local_infection);
+    
 
     if(rank==0) 
     {
         printf("Simulation completed; printing to file.\n");
         write_vars_to_file(people,f3);
         fflush(stdout);
+        double efficiency=Tserial/(size*total_time);
+        double speedup=efficiency*size;
+        fprintf(f4,"SPEEDUP:%lf\nEFFICIENCY:%lf",efficiency,speedup);
     }
 }
 
